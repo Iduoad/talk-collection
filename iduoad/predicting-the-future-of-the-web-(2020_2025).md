@@ -1,6 +1,6 @@
 ---
 title: Predicting the future of the web (2020/2025)
-description: 
+description: Richard makes 5 predictions about the future of js
 type: talk
 speaker: Richard feldman
 source: https://www.youtube.com/watch?v=prlYwbCHTdE

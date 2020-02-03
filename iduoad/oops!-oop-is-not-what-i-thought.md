@@ -3,7 +3,7 @@ title: Oops! OOP Is Not What I Thought
 description: A different point of view on OOP
 type: talk
 speaker: Anjana Vakil
-source: https://www.youtube.com/watch?v=91gxLyc9nXU
+source: https://www.youtube.com/watch?v=uoMHk_nrliQ
 tags: ['OOP']
 ---
 - Book: Learn you some Erlang/Haskell for great good

@@ -3,7 +3,7 @@ title: The single biggest reason why startups succeed
 description: Why does startups, yet awesome, fails. And how do they succed
 type: talk
 speaker: Bill Gross
-source: 
+source: https://www.youtube.com/watch?v=bNpx7gpSqbY
 tags: ['Startups']
 ---
 - The 5 aspects that matter are : timing, team/execution, idea, BM, Funding
