@@ -3,7 +3,7 @@ title: Embedding V8 in the real world
 description: challenges the NativeScript team met embedding V8 in a mobile framework 
 type: talk
 speaker: Stanimira Vlaeva
-source: https://www.youtube.com/watch?v=wz7Znu6tqFw&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=16
+source: https://www.youtube.com/watch?v=wz7Znu6tqFw
 tag : ['V8','NativeScript','JavaScript']
 ---
 - NativeScript is a framework for building native iOS and android apps using web technologies 
