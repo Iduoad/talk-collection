@@ -3,7 +3,7 @@ title: Bringing back dial-up:the internet over SMS
 description: building a browser that makes all requests over SMS 
 type: talk
 speaker: Alexandra Sunderland   
-source: //www.youtube.com/watch?v=ZsBAkSxwU5c&list=PL37ZVnwpeshHwJPVBqEnZild7QHWhdufu&index=17
+source: https://www.youtube.com/watch?v=ZsBAkSxwU5c
 tag : ['Javascript','node.js']
 ---
 - Problem: Internet access is so expensive in some countries 
