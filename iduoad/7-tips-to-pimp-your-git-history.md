@@ -4,6 +4,7 @@ description: Roland talks about ways to make your git history look better.
 type: talk
 speaker: Roland Weisleder
 source: https://www.youtube.com/watch?v=prlYwbCHTdE
+tags:['Git']
 ---
 - Initial commits should be as small as possible. you should avoid putting to much into it. (blackhole)
 - Write commit messages for your reader. Commit messages should express what changes were made, in a way readers can follow easily.

@@ -1,7 +1,8 @@
 ---
 title: 10 Excellent Ways to Secure Spring Boot Applications
+description: 10 Excellent Ways to Secure Spring Boot Applications
 type: talk
-authors: Matt Raible - Brian Demers
+author: Matt Raible - Brian Demers
 source: https://www.youtube.com/watch?v=H1gCqyo5gIo
 tags: ['Spring Boot', 'Security']
 ---

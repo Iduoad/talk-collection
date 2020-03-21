@@ -1,5 +1,6 @@
 ---
 title: I had to build my own Markdown Editor because no tool was fast enough for me
+description: building a Markdown editor with electron
 type: article
 author: Andrew Brown
 source: https://dev.to/exampro/i-had-to-build-my-own-markdown-editor-because-no-tool-was-fast-enough-for-me-3b3o

@@ -4,7 +4,7 @@ description: building a browser that makes all requests over SMS
 type: talk
 speaker: Alexandra Sunderland   
 source: https://www.youtube.com/watch?v=ZsBAkSxwU5c
-tag : ['Javascript','node.js']
+tags: ['Javascript','node.js']
 ---
 - Problem: Internet access is so expensive in some countries 
 - 1st approach: setting up a python server that would grab the data from internet and send it back via SMS
