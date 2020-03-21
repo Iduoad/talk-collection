@@ -40,6 +40,10 @@ If you already pushed some articles or talks, that do not respect the previous c
 
 ## Contributors :raised_hands:
 
-[<img alt="Iduoad" src="https://avatars0.githubusercontent.com/u/25715906?v=4&s=117 width=117">](https://github.com/Iduoad) |[<img alt="nfaihi" src="https://avatars2.githubusercontent.com/u/36778362?v=4&s=117 width=117">](https://github.com/nfaihi) |[<img alt="SihamBen" src="https://avatars3.githubusercontent.com/u/58236622?v=4&s=117 width=117">](https://github.com/SihamBen) |[<img alt="bondif" src="https://avatars2.githubusercontent.com/u/24433897?v=4&s=117 width=117">](https://github.com/bondif) |[<img alt="Iduoad" src="https://avatars3.githubusercontent.com/u/24499930?s=117 width=117">](https://github.com/Aymane11) |
+[<img alt="Iduoad" src="https://avatars0.githubusercontent.com/u/25715906?v=4&s=117 width=117">](https://github.com/Iduoad) |[<img alt="nfaihi" src="https://avatars2.githubusercontent.com/u/36778362?v=4&s=117 width=117">](https://github.com/nfaihi) |[<img alt="SihamBen" src="https://avatars3.githubusercontent.com/u/58236622?v=4&s=117 width=117">](https://github.com/SihamBen) |[<img alt="bondif" src="https://avatars2.githubusercontent.com/u/24433897?v=4&s=117 width=117">](https://github.com/bondif) |
 :---:|:---:|:---:|:---:|:---:|
-[Iduoad](https://github.com/Iduoad)|[nfaihi](https://github.com/nfaihi)|[SihamBen](https://github.com/SihamBen)|[bondif](https://github.com/bondif)|[Aymane11](https://github.com/aymane11)
+[Iduoad](https://github.com/Iduoad)|[nfaihi](https://github.com/nfaihi)|[SihamBen](https://github.com/SihamBen)|[bondif](https://github.com/bondif)|
+
+[<img alt="Aymane11" src="https://avatars3.githubusercontent.com/u/24499930?s=117 width=117">](https://github.com/Aymane11) | [<img alt="Elamraoui" src="https://avatars0.githubusercontent.com/u/32344494?s=117 width=117">](https://github.com/Elamraoui-Sohayb) |
+:---:|:---:|:---:|:---:|:---:|
+[Aymane11](https://github.com/aymane11)|[Elamraoui](https://github.com/Elamraoui-Sohayb)
