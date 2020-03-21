@@ -10,7 +10,7 @@ If you want to contribute, read carefully the steps and the conditions below to 
 - One folder per contributor
 - One markdown file per article/talk/workshop ...
   - Filename should be the title of the talk/article and the words must be separated with a dash '-'
-- The markdown file should at least contains 
+- The markdown file should at least contains
   - **title**
   - **type** (Article, Talk, Workshop ...)
   - **author/speaker**
@@ -38,6 +38,6 @@ If you are already pushed some articles or talks, that does not respect the prev
 
 ## Contributors :raised_hands:
 
-[<img alt="Iduoad" src="https://avatars0.githubusercontent.com/u/25715906?v=4&s=117 width=117">](https://github.com/Iduoad) |[<img alt="nfaihi" src="https://avatars2.githubusercontent.com/u/36778362?v=4&s=117 width=117">](https://github.com/nfaihi) |[<img alt="SihamBen" src="https://avatars3.githubusercontent.com/u/58236622?v=4&s=117 width=117">](https://github.com/SihamBen) |[<img alt="bondif" src="https://avatars2.githubusercontent.com/u/24433897?v=4&s=117 width=117">](https://github.com/bondif) |
-:---:|:---:|:---:|:---:|
-[Iduoad](https://github.com/Iduoad)|[nfaihi](https://github.com/nfaihi)|[SihamBen](https://github.com/SihamBen)|[bondif](https://github.com/bondif)|
+[<img alt="Iduoad" src="https://avatars0.githubusercontent.com/u/25715906?v=4&s=117 width=117">](https://github.com/Iduoad) |[<img alt="nfaihi" src="https://avatars2.githubusercontent.com/u/36778362?v=4&s=117 width=117">](https://github.com/nfaihi) |[<img alt="SihamBen" src="https://avatars3.githubusercontent.com/u/58236622?v=4&s=117 width=117">](https://github.com/SihamBen) |[<img alt="bondif" src="https://avatars2.githubusercontent.com/u/24433897?v=4&s=117 width=117">](https://github.com/bondif) |[<img alt="Iduoad" src="https://avatars3.githubusercontent.com/u/24499930?s=117 width=117">](https://github.com/Aymane11) |
+:---:|:---:|:---:|:---:|:---:|
+[Iduoad](https://github.com/Iduoad)|[nfaihi](https://github.com/nfaihi)|[SihamBen](https://github.com/SihamBen)|[bondif](https://github.com/bondif)|[Aymane11](https://github.com/aymane11)
