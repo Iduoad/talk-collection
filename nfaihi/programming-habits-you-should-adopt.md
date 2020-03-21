@@ -1,5 +1,6 @@
 ---
 title: Programming Habits You Should Adopt
+description: Programming Habits You Should Adopt
 type: article
 author: Daan
 source: https://levelup.gitconnected.com/programming-habits-you-should-adopt-8ab75419fb09

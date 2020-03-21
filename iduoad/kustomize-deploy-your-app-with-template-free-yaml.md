@@ -4,6 +4,7 @@ description: Introduction to a Kustomize, which make you custumize your k8s depl
 type: talk
 speaker: Ryan Cox
 source: https://www.youtube.com/watch?v=ahMIBxufNR0
+tags:['Kubernetes','DevOps']
 ---
 - Deployment landscape in k8s is quite rich: Weave flux, ksonnet, pulumi, Octupus, DeployHub and Helm ...
 - Those tools have a lot of system capabilities

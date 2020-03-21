@@ -4,7 +4,7 @@ description: challenges the NativeScript team met embedding V8 in a mobile frame
 type: talk
 speaker: Stanimira Vlaeva
 source: https://www.youtube.com/watch?v=wz7Znu6tqFw
-tag : ['V8','NativeScript','JavaScript']
+tags : ['V8','NativeScript','JavaScript']
 ---
 - NativeScript is a framework for building native iOS and android apps using web technologies 
 - NativeScript supports angular and Vue.Js

@@ -4,7 +4,7 @@ description: Adding Browser APIs to Node.js as Buildings
 type: talk
 speaker: Joyee Cheung
 source: https://www.youtube.com/watch?v=ceiUozUFF3Y
-tag : ['Javascript','node.js']
+tags : ['Javascript','node.js']
 ---
 - Node.js and Browsers had a lot of APIs that are equivelent but with different design.
 - Exemples of gaps between the two platforms 

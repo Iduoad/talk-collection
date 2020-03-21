@@ -1,24 +1,41 @@
-import pprint
+from sys import argv
 
-def get_elements(string):
-    key = string.split(':',1)
-    return key
+def extract(filename):
+    rf=open(filename,'r')
+    counter=0
+    d={}
+    for line in rf:
+        if counter == 2 :
+            break
+        if "---\n" in line:
+            counter+=1
+            continue
+        #print(line.split(':',1))
+        if ':' in line:
+            key=line.split(':',1)[0].strip()
+            value=line.split(':',1)[1].strip()
+            d[key]=value
+    return d
 
-def get_dict(filename):
-    with open(filename) as ff:
-        headers = ff.readlines()
-        indices = [i for i, x in enumerate(headers) if x == "---\n"]
-        d = {}
-        if len(indices) < 2:
-            return d
+def key_exists(d,key):
+    value = d.get(key)
+    if value is None or value == '' or value.isspace():
+        return False
+    return True
 
-        content = headers[indices[0] + 1 : indices[1]]
+def validate(d):
+    keys = ['title', 'type', 'description', 'source', 'tags']
+    for key in keys:
+        if key_exists(d,key) == False:
+            return False
+    if not (key_exists(d,'author') or key_exists(d,'speaker') or key_exists(d,'instructor')):
+        return False
+    return True
 
-        for line in content:
-            d[get_elements(line)[0]] = get_elements(line)[1]
-
-        return d
-if __name__ == '__main__':
-    filename = 'git-intermediate-techniques.md'
-    pprint.pprint(get_dict(filename))
-
+if __name__ == "__main__":
+    if len(argv)>1:
+        for filename in argv[1:]:
+            #print(validate(extract(filename)))
+            if validate(extract(filename)):
+                print(filename)
+                

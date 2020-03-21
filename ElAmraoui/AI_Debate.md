@@ -4,7 +4,7 @@ description: A historic debate between two of AI pioneers, discussing the big qu
 type: Debate
 speaker: Gary Marcus / Yoshua Benjio 
 source: https://www.youtube.com/watch?v=EeqwFjqFvJA
-tag: ['AI','Deep Learning']
+tags: ['AI','Deep Learning']
 ---
 - Gary Marcus opening position: Neural nets's "classic connectionism couldn't learn universals outside training space". Nontheless, deep learning should be abandoned, but that that it should be "re-contextualized as a tool among many".
 - Yoshua Benjio opening statment: the main challenge is how to generalize beyond training data. Deep learning, is "not a particular architecture or a particular training procedure...It's something that's moving, it's more a philosophy as we add more principles to our toolbox".

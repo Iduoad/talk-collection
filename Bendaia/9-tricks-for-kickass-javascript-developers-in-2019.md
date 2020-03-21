@@ -2,9 +2,9 @@
 title: 9 Tricks for Kickass JavaScript Developers in 2019
 description:  Some tips and tricks to write a better JavaScript code
 type: article
-writer: Lukas Gisder-Dubé  
+author: Lukas Gisder-Dubé  
 source: https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a
-tag : ['Javascript']
+tags : ['Javascript']
 ---
 - Use async / await
 - We can use for...of to loop through an array and execute async code inside the block, the execution will be halted until each call has succeeded. 

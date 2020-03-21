@@ -2,6 +2,7 @@
 title: Git Intermediate Techniques
 description: Kevin shows us concepts that can help us work more efficiently with the popular open-source version control software.   
 NB: This is not a full course summary, but just what I found most useful in day to day work with Git.   
+type: Course
 instructor: Kevin Skoglund   
 source: https://www.linkedin.com/learning/git-intermediate-techniques   
 tags: ['Git', 'VCS']

@@ -4,6 +4,7 @@ description: Patrick describes different ways one can host his website.
 type: article
 author: Patrick Triest
 source: https://blog.patricktriest.com/host-webapps-free/
+tags:['Web','Hosting']
 ---
 - Hosting websites(traditional hosting) are not a good deal.
 - Cloud services are cheap for hosting static web pages, storage instance.

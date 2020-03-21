@@ -1,5 +1,6 @@
 ---
 title: Software Developer Trends of 2020 and Beyond
+description: Software Developer Trends of 2020 and Beyond
 type: article
 author: The Educative Team
 source: https://medium.com/better-programming/software-developer-trends-of-2020-and-beyond-d1b955bc46b8
