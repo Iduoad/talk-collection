@@ -1,21 +1,22 @@
 # talk-collection
-If you are a tech maniac, or obsessed with technologies and you love reading and hacking new things and want to share what you have learned with others and make their lives easier without reading a hole article or watching a long talks. This repo is for you where you can summarize the ideas and topics mentionned in the article/talk. All you need is to follow the steps below.
+If you are a tech maniac, or obsessed with technologies and you love reading and hacking new things and want to share what you have learned with others and make their lives easier without reading a whole article or watching a long talk. This repo is where you can summarize the ideas and topics mentionned in the article/talk. All you need is to follow the steps below.
 
 
 ## Want to contribute :wink:
-If you want to contribute, read carefully the steps and the conditions below to stick on one standard format to make it easy to load the files and feed them to a website.
+If you want to contribute, read carefully the steps and the conditions below to stick to one standard format to make it easy to load the files and feed them to a website.
 
 > NB : Suggestions and improvements are welcomed
 ### Specifications
 - One folder per contributor
 - One markdown file per article/talk/workshop ...
   - Filename should be the title of the talk/article and the words must be separated with a dash '-'
-- The markdown file should at least contains
+- The markdown file should at least contains (all headers should be lowercase)
   - **title**
+  - **description**
   - **type** (Article, Talk, Workshop ...)
-  - **author/speaker**
+  - **author/speaker/instructor**
   - **source** (URL)
-  - **tags** : at least one
+  - **tags** : at least one ['tag1','tag2']
   - **Body** : relevant informations and ideas you got from your reading/watching
 
 ### Example of a md file :point_down:
@@ -27,6 +28,7 @@ description: Tips to improve linkedin account visibility
 type: article
 author: Andrew Brown
 source: https://dev.to/exampro/700-web-developers-asked-me-to-give-them-linkedin-profile-feedback-and-these-are-my-5-top-tips-5382
+tags: ['Web','Career']
 ---
 - Profile picture colored instead of black and white
 - Add a banner (https://goingsocial.ca/the-linkedin-cheat-sheet-for-image-sizing-dimensions)
@@ -34,7 +36,7 @@ source: https://dev.to/exampro/700-web-developers-asked-me-to-give-them-linkedin
 </pre>
 
 ### To do
-If you are already pushed some articles or talks, that does not respect the previous conditions, please try to refactor it and push it again :pray:.
+If you already pushed some articles or talks, that do not respect the previous conditions, please try to refactor and push them again :pray:.
 
 ## Contributors :raised_hands:
 
