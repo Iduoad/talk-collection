@@ -22,10 +22,6 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: apt update && apt install python3 git
-
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
       run: python3 validate.py $(git diff-tree --no-commit-id --name-only -r $GITHUB_SHA | grep -E ".+\/.+\.md")
