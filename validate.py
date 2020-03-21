@@ -37,5 +37,4 @@ if __name__ == "__main__":
         for filename in argv[1:]:
             if not validate(extract(filename)):
                 exit(1)
-
     exit(0)

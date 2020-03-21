@@ -1,6 +1,7 @@
 ---
 title: Building a cross-platform native app with BeeWare
 description: Introduction of Beeware, a python framework for bulding cross-platform native apps
+type: talk
 speaker: Russell Keith-Magee
 source: https://www.youtube.com/watch?v=qaPzlIJ57dk
 tags:['Python','Mobile','Cross-Platform']
