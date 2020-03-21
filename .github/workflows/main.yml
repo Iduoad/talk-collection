@@ -1,8 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: ValidateMarkdownFiles
 
-# Controls when the action will run. Triggers the workflow on push or pull request 
+# Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   push:
@@ -13,7 +13,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
-  build:
+  validate:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -24,8 +24,8 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: apt update && apt install python
+      run: apt update && apt install python3 git
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
-      run: python validate.py
+      run: python3 validate.py $(git diff-tree --no-commit-id --name-only -r $GITHUB_SHA | grep -E ".+\/.+\.md")

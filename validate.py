@@ -1,4 +1,4 @@
-from sys import argv
+from sys import argv, exit
 
 def extract(filename):
     rf=open(filename,'r')
@@ -33,9 +33,9 @@ def validate(d):
     return True
 
 if __name__ == "__main__":
-    if len(argv)>1:
+    if len(argv) > 1:
         for filename in argv[1:]:
-            #print(validate(extract(filename)))
-            if validate(extract(filename)):
-                print(filename)
-                
+            if not validate(extract(filename)):
+                exit(1)
+
+    exit(0)

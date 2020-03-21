@@ -1,6 +1,6 @@
 ---
 title: 10 tips to host your web apps for free
-description: Patrick describes different ways one can host his website. 
+description: Patrick describes different ways one can host his website.
 type: article
 author: Patrick Triest
 source: https://blog.patricktriest.com/host-webapps-free/
