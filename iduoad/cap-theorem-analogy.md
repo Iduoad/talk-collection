@@ -6,6 +6,7 @@ speaker: Abderrahim Ouakki
 source: https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
 tags:['Distributed-Systems','CAP-Theorem']
 ---
+dir=rtl
 من شحال هاذي و أنا تانسمع بCAP theorem و عمرني فهمتوا حتى شرحوا عبد الرحيم عاد بديت كانفهموا. 
 https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
 المهم قلبت شوية أكثر و قررت نحاول نشرحوا، باش تا أنا نزيد نفهموا شوية.
