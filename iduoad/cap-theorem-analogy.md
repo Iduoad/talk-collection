@@ -6,6 +6,8 @@ speaker: Abderrahim Ouakki
 source: https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
 tags:['Distributed-Systems','CAP-Theorem']
 ---
+<div dir="rtl" align='right'>
+    
 من شحال هاذي و أنا تانسمع بCAP theorem و عمرني فهمتوا حتى شرحوا عبد الرحيم عاد بديت كانفهموا. 
 https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
 المهم قلبت شوية أكثر و قررت نحاول نشرحوا، باش تا أنا نزيد نفهموا شوية.
@@ -15,7 +17,8 @@ https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
     كل واحد تايقدر يهضر مع لي قريب ليه. وهاكا كيفاش تايتواصلوا في حالة ايلا تبدل الثمن ديال المعقم.
     الشاف: هاذا هو لي تايقرر ثمن المعقم و تايجي تايقولوا للموظفين (و من تما تايتواصلوا بيناتهم باش كلشي يعرف الثمن الجديد)
 
-دابا نعرفةا 3 ديال المبادئ
+
+دابا نعرفوا 3 ديال المبادئ
 1. الAvailability
 هذا باين، منين غاي نتصل بشي واحد في السنطر دابيل، ايلا كان في البوسط ديالوا خاصو يجاوبني ضروري مايمكنش يقطع عليا و لا يتعطل.
 2. الConsistency
@@ -38,3 +41,5 @@ https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
 هاذشي لي كاين، سمحوا لي هاذشي خرج طويل
 https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
 https://en.wikipedia.org/wiki/CAP_theorem
+
+</div>
