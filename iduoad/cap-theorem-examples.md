@@ -6,6 +6,7 @@ speaker: Abderrahim Ouakki
 source: https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
 tags: ['Distributed-Systems','CAP-Theorem']
 ---
+<div dir="rtl">
 ككمالة على ذاكشي ديال CAP Theorem حاولت نقلب على أمثلة باش داكشي يكون باين.
 و لكن قبل هاذو شي استنتاجات مهمين:
 
@@ -32,3 +33,4 @@ https://www.datastax.com/blog/2019/05/how-apache-cassandratm-balances-consistenc
 - و أخيرا، CP .. في الحالات لي الدقة ديال المعلومات C مهمة عندنا أكبر من التوفر ديالها A .. 
 غالبا ال NoSQL Datastore بحال HBase و Redis و Etcd تايكونوا تايوفروا هاذ الmode (هاذشي ماتايمنعهمش يخدموا في modes آخرين) .. 
 من اﻷمثلة لي طاحوا لي في بالي، هو configuration لي إلا كانت موزعة على بزاف يال datastores مستقلين بعني P غادي يخصنا ضروري نفس المعلومات لي كاينين في أي node يكون في جميع nodes لاخرين باش ماتتخربقش لينا الconfig مابين services ديالنا. في حين ممكن نتحملوا A .. بأننا نمشيو نقلبوا في Node آخر فينما مايجاوبش شي node .
+</div>
