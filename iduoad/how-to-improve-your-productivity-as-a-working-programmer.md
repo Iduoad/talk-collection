@@ -4,7 +4,7 @@ description: Tips about improving programmer's productivity
 type: article
 author: malipster
 source: https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/
-tags:['Productivity']
+tags: ['Productivity']
 ---
 - Don't check social media first thing in the morning, or when getting into the office. Check them before meetings, lunch so that you'll be time constrainted.
 - Setup the environnement which will help you get into the flow fast.

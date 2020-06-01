@@ -4,7 +4,7 @@ description: Introduction of Beeware, a python framework for bulding cross-platf
 type: talk
 speaker: Russell Keith-Magee
 source: https://www.youtube.com/watch?v=qaPzlIJ57dk
-tags:['Python','Mobile','Cross-Platform']
+tags: ['Python','Mobile','Cross-Platform']
 ---
 - Introduction of Beeware's different components and their roles in the ecosystem.
 - Beeware is not just a widget toolkit.

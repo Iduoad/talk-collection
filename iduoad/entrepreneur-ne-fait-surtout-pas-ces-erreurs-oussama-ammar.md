@@ -4,7 +4,7 @@ description: Oussama Ammar (Founder of the Family incubator) talking about entre
 type: chat
 speaker: Oussama Ammar
 source:  https://www.youtube.com/watch?v=kbfnRPcrKL0
-tags:['Entrepreneurship','Startup']
+tags: ['Entrepreneurship','Startup']
 ---
 - Mariage entrepreneur/boite(secteur) est un facteur cle pour la reussite des startups
 - Les bons entrepreneurs arrivent a creer leur propre caricature = incarnation de projet par l'entrepreneur.
