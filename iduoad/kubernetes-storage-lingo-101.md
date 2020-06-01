@@ -4,7 +4,7 @@ description: Introduction to the storage ecosystem and terminology in kubernetes
 type: talk
 speaker: Saad Ali
 source: https://www.youtube.com/watch?v=uSxlgK1bCuA
-tags:['Kubernetes','Storage']
+tags: ['Kubernetes','Storage']
 ---
 
 ## The Goal: Workload Portability

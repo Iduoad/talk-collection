@@ -4,7 +4,7 @@ description: How Do Netflix approchs Devops
 type: talk
 speaker: Dave Hahn
 source: https://www.youtube.com/watch?v=UTKIT6STSVM
-tags:['DevOps']
+tags: ['DevOps']
 ---
 - Netflix Culture values Freedom and Responsability
 - Netflix does not have a single datacenter, they use Amazon Web services

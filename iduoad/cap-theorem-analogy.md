@@ -4,7 +4,7 @@ description: Analogy with a call center to introduce CAP theorem
 type: talk
 speaker: Abderrahim Ouakki
 source: https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
-tags:['Distributed-Systems','CAP-Theorem']
+tags: ['Distributed-Systems','CAP-Theorem']
 ---
 <div dir="rtl" align='right'>
     

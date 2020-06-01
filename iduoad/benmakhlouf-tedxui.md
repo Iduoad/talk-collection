@@ -4,7 +4,7 @@ description: talk about Success cycles of people and companies compared to track
 type: talk
 speaker: Samir Benmakhlouf
 source: https://www.youtube.com/watch?v=iItgDhqbX_E
-tags:['Career','Startup']
+tags: ['Career','Startup']
 ---
 - It is okey to start and run with the crowd.
 - Always look forward and backward to keep track of the competition

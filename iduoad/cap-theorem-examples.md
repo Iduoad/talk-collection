@@ -4,7 +4,7 @@ description: Examples of the CAP theorem
 type: talk
 speaker: Abderrahim Ouakki
 source: https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/
-tags:['Distributed-Systems','CAP-Theorem']
+tags: ['Distributed-Systems','CAP-Theorem']
 ---
 ككمالة على ذاكشي ديال CAP Theorem حاولت نقلب على أمثلة باش داكشي يكون باين.
 و لكن قبل هاذو شي استنتاجات مهمين:
