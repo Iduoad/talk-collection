@@ -4,7 +4,7 @@ description: An overview of the challenges facing production-level AI, with real
 type: Talk
 speaker: Ian Scott (Deloitte-Canada)
 source: https://www.youtube.com/watch?v=Cod4v_enYb4
-tag: ['AI', 'Machine Learning']
+tags: ['AI', 'Machine Learning']
 ---
 - AI & ML have been used and applied long before the hype and buzzwords were coined.
 - Doing AI on the ground faces challenges that are different form doing AI for research proposes:
