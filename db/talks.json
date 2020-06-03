@@ -1,0 +1,486 @@
+{
+    "talks": {
+        "Bendaia": [
+            {
+                "title": "Web APIs in Node.js Core:Past, Present, and Future",
+                "description": "Adding Browser APIs to Node.js as Buildings",
+                "type": "Talk",
+                "tags": [
+                    "Javascript",
+                    "node.js"
+                ],
+                "filePath": "talks/Bendaia/Web-APIs-in-Node.js-Core.md",
+                "talkOwner": "Joyee Cheung",
+                "linkSource": "https://www.youtube.com/watch?v=ceiUozUFF3Y"
+            },
+            {
+                "title": "9 Tricks for Kickass JavaScript Developers in 2019",
+                "description": "Some tips and tricks to write a better JavaScript code",
+                "type": "Article",
+                "tags": [
+                    "Javascript"
+                ],
+                "filePath": "talks/Bendaia/9-tricks-for-kickass-javascript-developers-in-2019.md",
+                "talkOwner": "Lukas Gisder-Dub\u00e9",
+                "linkSource": "https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a"
+            },
+            {
+                "title": "Performance Empathy",
+                "description": "performance issues and some real and practical solutions",
+                "type": "Talk",
+                "tags": [
+                    "web",
+                    "performance"
+                ],
+                "filePath": "talks/Bendaia/Performance-Empathy.md",
+                "talkOwner": "Houssein Djirdeh",
+                "linkSource": "https://www.youtube.com/watch?v=uIBYN6w9cBc&t=239s"
+            },
+            {
+                "title": "Bringing back dial-up:the internet over SMS",
+                "description": "building a browser that makes all requests over SMS",
+                "type": "Talk",
+                "tags": [
+                    "Javascript",
+                    "node.js"
+                ],
+                "filePath": "talks/Bendaia/Bringing-back-dial-up.md",
+                "talkOwner": "Alexandra Sunderland",
+                "linkSource": "https://www.youtube.com/watch?v=ZsBAkSxwU5c"
+            },
+            {
+                "title": "Everything you need to know about react-scripts",
+                "description": "overview of react-scripts,different types and how create-react-app works",
+                "type": "Article",
+                "tags": [
+                    "Javascript",
+                    "React"
+                ],
+                "filePath": "talks/Bendaia/react-scripts.md",
+                "talkOwner": "Ibrahima Ndaw",
+                "linkSource": "https://blog.logrocket.com/everything-you-need-to-know-about-react-scripts"
+            },
+            {
+                "title": "EM vs REM vs PX \u2013 Why you shouldn't \u201cjust use pixels\u201d",
+                "description": "comparison between px ,em,rem and best use cases for each unit",
+                "type": "Article",
+                "tags": [
+                    "css"
+                ],
+                "filePath": "talks/Bendaia/em-vs-rem-vs-px.md",
+                "talkOwner": "simon-willans",
+                "linkSource": "https://engageinteractive.co.uk/blog/em-vs-rem-vs-px"
+            },
+            {
+                "title": "Embedding V8 in the real world",
+                "description": "challenges the NativeScript team met embedding V8 in a mobile framework",
+                "type": "Talk",
+                "tags": [
+                    "V8",
+                    "NativeScript",
+                    "JavaScript"
+                ],
+                "filePath": "talks/Bendaia/Embedding-V8-in-the-real-world.md",
+                "talkOwner": "Stanimira Vlaeva",
+                "linkSource": "https://www.youtube.com/watch?v=wz7Znu6tqFw"
+            }
+        ],
+        "bondif": [
+            {
+                "title": "Git Intermediate Techniques",
+                "description": "Kevin shows us concepts that can help us work more efficiently with the popular open-source version control software.",
+                "NB": "This is not a full course summary, but just what I found most useful in day to day work with Git.",
+                "type": "Course",
+                "tags": [
+                    "Git",
+                    "VCS"
+                ],
+                "filePath": "talks/bondif/git-intermediate-techniques.md",
+                "talkOwner": "Kevin Skoglund",
+                "linkSource": "https://www.linkedin.com/learning/git-intermediate-techniques"
+            }
+        ],
+        "ElAmraoui": [
+            {
+                "title": "Montreal AI Debate",
+                "description": "A historic debate between two of AI pioneers, discussing the big questions about creating hybrid systems of AI, finding the right \"priors\" for knowledge, perspectives on where AI could go next?.",
+                "type": "Debate",
+                "tags": [
+                    "AI",
+                    "Deep Learning"
+                ],
+                "filePath": "talks/ElAmraoui/AI_Debate.md",
+                "talkOwner": "Gary Marcus / Yoshua Benjio",
+                "linkSource": "https://www.youtube.com/watch?v=EeqwFjqFvJA"
+            }
+        ],
+        "iduoad": [
+            {
+                "title": "The single biggest reason why startups succeed",
+                "description": "Why does startups, yet awesome, fails. And how do they succed",
+                "type": "Talk",
+                "tags": [
+                    "Startups"
+                ],
+                "filePath": "talks/iduoad/the-single-biggest-reason-why-startups-succeed.md",
+                "talkOwner": "Bill Gross",
+                "linkSource": "https://www.youtube.com/watch?v=bNpx7gpSqbY"
+            },
+            {
+                "title": "Benmakhlouf TEDxUI",
+                "description": "talk about Success cycles of people and companies compared to tracks (athletism)",
+                "type": "Talk",
+                "tags": [
+                    "Career",
+                    "Startup"
+                ],
+                "filePath": "talks/iduoad/benmakhlouf-tedxui.md",
+                "talkOwner": "Samir Benmakhlouf",
+                "linkSource": "https://www.youtube.com/watch?v=iItgDhqbX_E"
+            },
+            {
+                "title": "Surviving the Framework Hype Cycle",
+                "description": "What is the hype cycle, and how to survive it, Rails as a study case.",
+                "type": "Talk",
+                "tags": [
+                    "frameworks"
+                ],
+                "filePath": "talks/iduoad/surviving-the-framework-hype-cycle.md",
+                "talkOwner": "Brandon Hayes",
+                "linkSource": "https://www.youtube.com/watch?v=O6TtfK9gGvA"
+            },
+            {
+                "title": "CAP theorem - part 2",
+                "description": "Examples of the CAP theorem",
+                "type": "Talk",
+                "tags": [
+                    "Distributed-Systems",
+                    "CAP-Theorem"
+                ],
+                "filePath": "talks/iduoad/cap-theorem-examples.md",
+                "talkOwner": "Abderrahim Ouakki",
+                "linkSource": "https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/"
+            },
+            {
+                "title": "How Netflix Thinks of Devops",
+                "description": "How Do Netflix approchs Devops",
+                "type": "Talk",
+                "tags": [
+                    "DevOps"
+                ],
+                "filePath": "talks/iduoad/how-netflix-thinks-of-devops.md",
+                "talkOwner": "Dave Hahn",
+                "linkSource": "https://www.youtube.com/watch?v=UTKIT6STSVM"
+            },
+            {
+                "title": "700+ Web Developers Asked Me To Give Them LinkedIn Profile Feedback And These Are My \ud83d\udd90\ufe0f 5 Top Tips.",
+                "description": "Tips to improve linkedin account visibility",
+                "type": "Article",
+                "tags": [
+                    "Web",
+                    "Career"
+                ],
+                "filePath": "talks/iduoad/700+-web-developers-asked-me-to-give-them-linkedin.md",
+                "talkOwner": "Andrew Brown",
+                "linkSource": "https://dev.to/exampro/700-web-developers-asked-me-to-give-them-linkedin-profile-feedback-and-these-are-my-5-top-tips-5382"
+            },
+            {
+                "title": "The JavaScript Starter Kit Manifesto",
+                "description": "Solve JS developers fatigue problems (due to the choice paradox created by the huge number of JS code out there) by using starter kits",
+                "type": "Talk",
+                "tags": [
+                    "javascript",
+                    "methodology",
+                    "best_practices"
+                ],
+                "filePath": "talks/iduoad/the-javascript-starter-kit-manifesto.md",
+                "talkOwner": "Cory House",
+                "linkSource": "https://www.youtube.com/watch?v=jubd2opc4Ps"
+            },
+            {
+                "title": "Building a cross-platform native app with BeeWare",
+                "description": "Introduction of Beeware, a python framework for bulding cross-platform native apps",
+                "type": "Talk",
+                "tags": [
+                    "Python",
+                    "Mobile",
+                    "Cross-Platform"
+                ],
+                "filePath": "talks/iduoad/building-a-cross-platform-native-app-with-beeware.md",
+                "talkOwner": "Russell Keith-Magee",
+                "linkSource": "https://www.youtube.com/watch?v=qaPzlIJ57dk"
+            },
+            {
+                "title": "Predicting the future of the web (2020/2025)",
+                "description": "Richard makes 5 predictions about the future of JS",
+                "type": "Talk",
+                "tags": [
+                    "JavaScript",
+                    "Web"
+                ],
+                "filePath": "talks/iduoad/predicting-the-future-of-the-web-(2020_2025).md",
+                "talkOwner": "Richard feldman",
+                "linkSource": "https://www.youtube.com/watch?v=prlYwbCHTdE"
+            },
+            {
+                "title": "Entrepreneur? Ne fait SURTOUT PAS ces ERREURS - Oussama Ammar (interview compl\u00e8te)",
+                "description": "Oussama Ammar (Founder of the Family incubator) talking about entrepreneurship",
+                "type": "Chat",
+                "tags": [
+                    "Entrepreneurship",
+                    "Startup"
+                ],
+                "filePath": "talks/iduoad/entrepreneur-ne-fait-surtout-pas-ces-erreurs-oussama-ammar.md",
+                "talkOwner": "Oussama Ammar",
+                "linkSource": "https://www.youtube.com/watch?v=kbfnRPcrKL0"
+            },
+            {
+                "title": "CAP theorem",
+                "description": "Analogy with a call center to introduce CAP theorem",
+                "type": "Talk",
+                "tags": [
+                    "Distributed-Systems",
+                    "CAP-Theorem"
+                ],
+                "filePath": "talks/iduoad/cap-theorem-analogy.md",
+                "talkOwner": "Abderrahim Ouakki",
+                "linkSource": "https://www.facebook.com/groups/DevC.Casablanca/permalink/1016943958707581/"
+            },
+            {
+                "title": "10 tips to host your web apps for free",
+                "description": "Patrick describes different ways one can host his website.",
+                "type": "Article",
+                "tags": [
+                    "Web",
+                    "Hosting"
+                ],
+                "filePath": "talks/iduoad/10-tips-to-host-your-web-apps-for-free.md",
+                "talkOwner": "Patrick Triest",
+                "linkSource": "https://blog.patricktriest.com/host-webapps-free/"
+            },
+            {
+                "title": "Kubernetes Storage Lingo 101 (Kubernetes Storage Lingo 101)",
+                "description": "Introduction to the storage ecosystem and terminology in kubernetes.",
+                "type": "Talk",
+                "tags": [
+                    "Kubernetes",
+                    "Storage"
+                ],
+                "filePath": "talks/iduoad/kubernetes-storage-lingo-101.md",
+                "talkOwner": "Saad Ali",
+                "linkSource": "https://www.youtube.com/watch?v=uSxlgK1bCuA"
+            },
+            {
+                "title": "Oops! OOP Is Not What I Thought",
+                "description": "A different point of view on OOP",
+                "type": "Talk",
+                "tags": [
+                    "OOP"
+                ],
+                "filePath": "talks/iduoad/oops!-oop-is-not-what-i-thought.md",
+                "talkOwner": "Anjana Vakil",
+                "linkSource": "https://www.youtube.com/watch?v=uoMHk_nrliQ"
+            },
+            {
+                "title": "7 Tips to Pimp Your Git History",
+                "description": "Roland talks about ways to make your git history look better.",
+                "type": "Talk",
+                "tags": [
+                    "Git"
+                ],
+                "filePath": "talks/iduoad/7-tips-to-pimp-your-git-history.md",
+                "talkOwner": "Roland Weisleder",
+                "linkSource": "https://www.youtube.com/watch?v=prlYwbCHTdE"
+            },
+            {
+                "title": "'Kustomize: Deploy Your App with Template Free YAML'",
+                "description": "Introduction to a Kustomize, which make you custumize your k8s deployments without templating the yaml files.",
+                "type": "Talk",
+                "tags": [
+                    "Kubernetes",
+                    "DevOps"
+                ],
+                "filePath": "talks/iduoad/kustomize-deploy-your-app-with-template-free-yaml.md",
+                "talkOwner": "Ryan Cox",
+                "linkSource": "https://www.youtube.com/watch?v=ahMIBxufNR0"
+            },
+            {
+                "title": "Bill Gates on investment and technology",
+                "description": "Bill gates talks about world problems and technlogy",
+                "type": "Chat",
+                "tags": [
+                    "Technology",
+                    "Startup"
+                ],
+                "filePath": "talks/iduoad/bill-gates-on-investment-and.md",
+                "talkOwner": "Bill Gates",
+                "linkSource": "https://www.youtube.com/watch?v=W5g4sPi1wd4"
+            },
+            {
+                "title": "How to Improve Your Productivity as a Working Programmer",
+                "description": "Tips about improving programmer's productivity",
+                "type": "Article",
+                "tags": [
+                    "Productivity"
+                ],
+                "filePath": "talks/iduoad/how-to-improve-your-productivity-as-a-working-programmer.md",
+                "talkOwner": "malipster",
+                "linkSource": "https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/"
+            },
+            {
+                "title": "Canonical - Using containers to create the World s fastest OpenStack",
+                "description": "Using LXC/LXD to build fast Openstack clouds.",
+                "type": "Talk",
+                "tags": [
+                    "Cloud",
+                    "Containers",
+                    "LXC/LXD",
+                    "OpenStack"
+                ],
+                "filePath": "talks/iduoad/using-containers-to-create-the-world-s-fastest-openstack.md",
+                "talkOwner": "[Dustin Kirkland, Tycho Andersen]",
+                "linkSource": "https://www.youtube.com/watch?v=lM2wwYDLB2M"
+            }
+        ],
+        "nfaihi": [
+            {
+                "title": "Programming Habits You Should Adopt",
+                "description": "Programming Habits You Should Adopt",
+                "type": "Article",
+                "tags": [
+                    "Programming",
+                    "Habits",
+                    "Better programmer"
+                ],
+                "filePath": "talks/nfaihi/programming-habits-you-should-adopt.md",
+                "talkOwner": "Daan",
+                "linkSource": "https://levelup.gitconnected.com/programming-habits-you-should-adopt-8ab75419fb09"
+            },
+            {
+                "title": "Apache Airflow for beginners",
+                "description": "An introduction to Airflow for beginners",
+                "type": "Talk",
+                "tags": [
+                    "Apache",
+                    "Airflow",
+                    "Python",
+                    "Data pipelines"
+                ],
+                "filePath": "talks/nfaihi/apache-airflow-for-beginners.md",
+                "talkOwner": "Varya Karpenko",
+                "linkSource": "https://www.youtube.com/watch?v=YWtfU0MQZ_4"
+            },
+            {
+                "title": "7 Security Measures to Protect Your Servers",
+                "description": "Going through some fundamental security practices to protect your infrastructures and how it enhances security",
+                "type": "Article",
+                "tags": [
+                    "Security",
+                    "Servers",
+                    "Networks"
+                ],
+                "filePath": "talks/nfaihi/7-security-measures-to-protect-your-servers.md",
+                "talkOwner": "Justin Ellingwood & dbrian",
+                "linkSource": "https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers"
+            },
+            {
+                "title": "10 Excellent Ways to Secure Spring Boot Applications",
+                "description": "10 Excellent Ways to Secure Spring Boot Applications",
+                "type": "Talk",
+                "tags": [
+                    "Spring Boot",
+                    "Security"
+                ],
+                "filePath": "talks/nfaihi/10-excellent-ways-to-secure-spring-boot-applications.md",
+                "talkOwner": "Matt Raible - Brian Demers",
+                "linkSource": "https://www.youtube.com/watch?v=H1gCqyo5gIo"
+            },
+            {
+                "title": "6 Months Of Using GraphQL",
+                "description": "Going through some fundamental security practices to protect your infrastructures and how it enhances security",
+                "type": "Article",
+                "tags": [
+                    "GraphQL",
+                    "API",
+                    "Programming"
+                ],
+                "filePath": "talks/nfaihi/6-months-of-using-graphql.md",
+                "talkOwner": "Manish Jain",
+                "linkSource": "https://levelup.gitconnected.com/6-months-of-using-graphql-faa0fb68b4af"
+            },
+            {
+                "title": "Three ways to do good with a side project",
+                "description": "Importance of side projects and how they can craft your skills and ideas",
+                "type": "Article",
+                "tags": [
+                    "Side projects",
+                    "Developers",
+                    "Career"
+                ],
+                "filePath": "talks/nfaihi/three-ways-to-do-good-with-a-side-project.md",
+                "talkOwner": "Matthew Revell",
+                "linkSource": "https://dev.to/heroku/three-ways-to-do-good-with-a-side-project-59j9"
+            },
+            {
+                "title": "I had to build my own Markdown Editor because no tool was fast enough for me",
+                "description": "building a Markdown editor with electron",
+                "type": "Article",
+                "tags": [
+                    "Markdown",
+                    "Productivity",
+                    "Editors"
+                ],
+                "filePath": "talks/nfaihi/i-had-to-build-my-own-markdown-editor-because-no-tool-was-fast-enough-for-me.md",
+                "talkOwner": "Andrew Brown",
+                "linkSource": "https://dev.to/exampro/i-had-to-build-my-own-markdown-editor-because-no-tool-was-fast-enough-for-me-3b3o"
+            },
+            {
+                "title": "Software Developer Trends of 2020 and Beyond",
+                "description": "Software Developer Trends of 2020 and Beyond",
+                "type": "Article",
+                "tags": [
+                    "Programming",
+                    "Developers"
+                ],
+                "filePath": "talks/nfaihi/software-developer-trends-of-2020-and-beyond.md",
+                "talkOwner": "The Educative Team",
+                "linkSource": "https://medium.com/better-programming/software-developer-trends-of-2020-and-beyond-d1b955bc46b8"
+            }
+        ]
+    },
+    "tags": [
+        "OOP",
+        "Containers",
+        "DevOps",
+        "Cross-Platform",
+        "VCS",
+        "Career",
+        "Cloud",
+        "Startup",
+        "OpenStack",
+        "Better programmer",
+        "Security",
+        "Git",
+        "Deep Learning",
+        "Networks",
+        "Javascript",
+        "frameworks",
+        "Startups",
+        "node.js",
+        "Kubernetes",
+        "performance",
+        "Programming",
+        "Python",
+        "CAP-Theorem",
+        "Storage",
+        "css",
+        "Productivity",
+        "Mobile",
+        "web",
+        "Servers",
+        "Distributed-Systems",
+        "LXC/LXD",
+        "Habits",
+        "AI"
+    ]
+}
