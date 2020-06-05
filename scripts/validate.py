@@ -1,10 +1,9 @@
 from sys import argv, exit
 
-def extract(filename):
-    rf=open(filename,'r')
+def extract(file):
     counter=0
     d={}
-    for line in rf:
+    for line in file:
         if counter == 2 :
             break
         if "---\n" in line:
